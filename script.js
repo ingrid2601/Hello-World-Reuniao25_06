@@ -5,3 +5,4 @@ console.log (elemento);
 elemento.textContent = nomeUsuario;
 
 }
+inserirNome ()
